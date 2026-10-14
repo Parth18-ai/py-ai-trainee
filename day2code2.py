@@ -10,7 +10,6 @@ def play_game():
     while True:
         guess_text = input("Enter your guess: ")
 
-        # Make sure the user typed a whole number
         if not guess_text.isdigit():
             print("Please enter a valid whole number.")
             continue
