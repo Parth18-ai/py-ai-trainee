@@ -21,7 +21,6 @@ for letter in sentence.lower():
 
 is_palindrome = (clean == clean[::-1])
 
-# Show results
 print("Vowels:", vowel_count)
 print("Words:", word_count)
 print("Reversed snetence:", reversed_sentence)
