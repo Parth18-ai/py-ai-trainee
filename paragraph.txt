@@ -1,0 +1,3 @@
+Python is easy to learn.
+File handling is useful.
+I am practicing every day.
